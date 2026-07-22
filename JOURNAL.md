@@ -18,3 +18,9 @@ TO-DO (Schematic):
  - Charger :D
  - Storage Unit
  - Pinout
+
+** Total time spent: ~2.75 Hours **
+
+![pcb layout](images/PCBSchemDay1.svg)
+
+
