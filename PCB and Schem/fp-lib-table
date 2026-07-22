@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HyperPlex") (type "KiCad") (uri "${KIPRJMOD}/HyperPlex.pretty") (options "") (descr ""))
+)
