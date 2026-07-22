@@ -4435,6 +4435,16 @@
 		)
 		(uuid "c15a77db-c42e-458a-928c-b8f60b92dcda")
 	)
+	(label "3.3V"
+		(at 115.57 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "047259d6-c0b4-4fb7-8a80-00e9adea996b")
+	)
 	(label "GND"
 		(at 279.4 44.45 0)
 		(effects
@@ -4484,6 +4494,16 @@
 			(justify right bottom)
 		)
 		(uuid "1aaddf1f-274a-442d-a494-41f878e53d37")
+	)
+	(label "CS"
+		(at 64.77 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b80e997-d81a-4ae8-b4ef-ae53a767e869")
 	)
 	(label "3.3V"
 		(at 49.53 27.94 90)
@@ -4744,6 +4764,16 @@
 			(justify left bottom)
 		)
 		(uuid "a44039bf-36e3-4bcb-aa15-40889e5e4a52")
+	)
+	(label "CS"
+		(at 123.19 120.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a7209b19-0df9-4ef3-9fc3-e73261fa513d")
 	)
 	(label "GND"
 		(at 267.97 107.95 270)
@@ -5669,6 +5699,88 @@
 			(project "HyperPlex"
 				(path "/2159c24b-fff8-4711-9dc0-b98f0132545c"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 162.56 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46be7311-ec91-4ef5-ba88-4fe9d2c731d7")
+		(property "Reference" "C3"
+			(at 166.37 126.9999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 166.37 129.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.5252 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 162.56 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b5383d01-0a82-4b17-8b44-6d1f585b2bf8")
+		)
+		(pin "1"
+			(uuid "6e2f2171-5926-48c9-b65d-0d6babf69e28")
+		)
+		(instances
+			(project "HyperPlex"
+				(path "/2159c24b-fff8-4711-9dc0-b98f0132545c"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6662,6 +6774,85 @@
 			(project "HyperPlex"
 				(path "/2159c24b-fff8-4711-9dc0-b98f0132545c"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 119.38 130.81 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "87f40ce8-0028-48e5-a949-b0cc0aa7b1da")
+		(property "Reference" "R14"
+			(at 119.38 132.842 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 119.38 130.81 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 119.38 132.588 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 119.38 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "38c9f473-cb19-4a6e-afa8-93f575feeafa")
+		)
+		(pin "2"
+			(uuid "37700661-6aaf-4aee-8137-de665e4f1d34")
+		)
+		(instances
+			(project "HyperPlex"
+				(path "/2159c24b-fff8-4711-9dc0-b98f0132545c"
+					(reference "R14")
 					(unit 1)
 				)
 			)
