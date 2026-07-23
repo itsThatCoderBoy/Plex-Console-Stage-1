@@ -21,7 +21,7 @@ Bruh I just spent like 45 minutes on making a 5v power supply for the charger. T
 
 **Total time spent: ~2.75 Hours**
 
-![Schematic](images/PCBSchemDay1.svg)
+![Schematic](Images/PCBSchemDay1.svg)
 
 # July 22 - Finished Devboard Schematic, Finished Devboard PCB
 
@@ -52,6 +52,6 @@ Note: :D means that I did that task\
 
 **Total time spent: ~5.5 Hours**
 
-![Connector](images/connector.png)
-![Schematic](images/PCBSchemDay2.svg)
-![PCB](images/DevboardPCB.png)
+![Connector](Images/connector.png)
+![Schematic](Images/PCBSchemDay2.svg)
+![PCB](Images/DevboardPCB.png)
