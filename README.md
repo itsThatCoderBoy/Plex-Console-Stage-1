@@ -37,7 +37,7 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 ![Built-in KiCad 3D Model Front of Devboard](Images/PCBFront.png)
 
 *Built-in KiCad 3D Model Back*\
-![Built-in KiCad 3D Model Back of Devboard](Image/PCBBack.png)
+![Built-in KiCad 3D Model Back of Devboard](Images/PCBBack.png)
 
 ## BOM
 
