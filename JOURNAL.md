@@ -50,7 +50,7 @@ Devboard PCB layout finished! Going to get a quote from PCBWay to see what that 
 
 Note: :D means that I did that task\
 
-**Total timne spent: ~5.5 Hours**
+**Total time spent: ~5.5 Hours**
 
 ![Connector](images/connector.png)
 ![Schematic](images/PCBSchemDay2.svg)
