@@ -4722,7 +4722,7 @@
 				)
 			)
 		)
-		(property "Value" "2.4k"
+		(property "Value" "1.5k"
 			(at 275.59 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
