@@ -1,7 +1,7 @@
 # Plex Console Stage 1
 ## A small devboard that attaches to modules to give endless emulation possibilities!
 The way it works is simple: Have the main board, attach it to whatever output device is needed for the game you want to play, and bam! You have a small pocket-sized devboard with endless possibilities of emulation. All you have to do is make your attachment board, code the game, and snap on the main board!\
-**This is Stage 1 of this project; it is just the Devboard. After I build this project and it (hopefully) works, I am going to move on to a tester board.\
+**This is Stage 1 of this project; it is just the Devboard. After I build this project and it (hopefully) works, I am going to move on to a tester module.**\
 This is my first project as part of Hack Club, and I certainly hope it isn't my last! This has already been so fun, even just a couple hours in.
 
 ## Why & How
@@ -15,7 +15,7 @@ Thank you so much to Hack Club and Forge for making this whole thing possible! T
 
 ## What is it?
 This project firstly involves a devboard. The reason it isn't a single board with the I/O and everything is because the main devboard is one of the more expensive things (~$35-40 including shipping for components), and I wanted you to just have one for all of the possible modules. (Also because I wanted a concrete starting point)\
-Note: This is a test. I am going to make a case and print it myself when I have confirmation that it works.\
+**Note: This is a test for just the devboard. I am going to make a case and print it myself when I have confirmation that it works.**\
 The second part of the project is the modules. They snap onto the devboard with magnets and communicate with pads on the back of both. Modules can do anything, as long as you code it right and have enough I/O pins!
 
 ## What's the Plan?
@@ -34,10 +34,10 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 ![PCB Layout of Devboard](Images/DevboardPCB.png)
 
 *Built-in KiCad 3D Model Front*\
-![Built-in KiCad 3D Model Front of Devboard]()
+![Built-in KiCad 3D Model Front of Devboard](Images/PCBFront.png)
 
 *Built-in KiCad 3D Model Back*\
-![Built-in KiCad 3D Model Back of Devboard]()
+![Built-in KiCad 3D Model Back of Devboard](Image/PCBBack.png)
 
 ## BOM
 
