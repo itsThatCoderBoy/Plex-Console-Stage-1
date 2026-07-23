@@ -64,6 +64,6 @@ I've been mainly looking at various websites (LCSC, ALiExpress, JLCPCB, etc.) to
 I will be sending my BOM to the Slack to see if I'm getting scammed, thoough, so hopefully I get good deals.\
 I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.
 
-**Total time spent: ~ Hours**
+**Total time spent: ~2.3 Hours**
 
 ![BOM](Images/DevboardBOM)
