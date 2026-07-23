@@ -12,4 +12,9 @@ I initially was thinking of doing something exactly like his, but then realised 
 
 **What is it?**
 This project firstly involves a devboard. The reason it isn't a single board with the I/O and everything is because the main devboard is one of the more expensive things (~$20-25 including shipping for components), and I wanted you to just have one for all of the possible modules. (Also because I wanted a concrete starting point)\
-The second part of the project is the 
+The second part of the project is the modules. They snap onto the devboard with magnets and communicate with pads on the back of both. Modules can do anything, as long as you code it right! 
+
+**What's the Plan?**
+I currently have the devboard designed and ready to ship off to JLCPCB when I get funding!
+The first module that I am going to create is just a simple screen made of Charlie-Plexed LEDS. This is mainly just to practice coding, get the connection between the devboard and module hammered down, and make sure that the devboard works of course.
+After that, I move on to the main idea: The Nintendon't GameMan. This is basically a Gameboy-like 
