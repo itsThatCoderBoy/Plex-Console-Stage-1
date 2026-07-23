@@ -24,12 +24,16 @@ After that, I move on to the main idea: The Nintendon't GameMan. This is basical
 ### *Devboard*
 *Schematic*
 ![Schematic of Devboard](Images/PCBSchemDay2.svg)
+
 *PCB Layout*
 ![PCB Layout of Devboard](Images/DevboardPCB.png)
+
 *Built-in KiCad 3D Model Front*
 ![Built-in KiCad 3D Model Front of Devboard](Images/DevboardPCB.png)
-*Built-in KiCad 3D Model Front*
+
+*Built-in KiCad 3D Model Back*
 ![Built-in KiCad 3D Model Back of Devboard](Images/DevboardPCB.png)
+
 
 ### *Tester Module*
 Nothing :(
