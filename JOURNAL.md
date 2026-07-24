@@ -72,7 +72,7 @@ After asking a couple questions, I've found that it would be a better idea to ha
 # July 24 - Finishing Touches to PCB
 
 Not a lot today, mainly some finishing touches to PCB. I've seen a lot on Slack about "rounding thy corners", so I did that. I also added the name of the board and the hack club logo. After that, I regenerated the GRBRs afterwards and sent them to JLC.\
-I am also going to update the readme fully with updated pictures of everything.\
+I am also going to update the readme fully with updated pictures of everything.
 
 **Total time spent: ~0.3 Hours**
 
