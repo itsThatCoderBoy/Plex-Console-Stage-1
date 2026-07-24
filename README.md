@@ -31,7 +31,7 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 ![Schematic of Devboard](Images/PCBSchemDay2.svg)
 
 *PCB Layout*\
-![PCB Layout of Devboard](Images/DevboardPCB.png)
+![PCB Layout of Devboard](Images/FinalPCB.png)
 
 *Built-in KiCad 3D Model Front*\
 ![Built-in KiCad 3D Model Front of Devboard](Images/PCBFront.png)
