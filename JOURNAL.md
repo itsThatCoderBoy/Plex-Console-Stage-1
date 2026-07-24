@@ -74,6 +74,6 @@ After asking a couple questions, I've found that it would be a better idea to ha
 Not a lot today, mainly some finishing touches to PCB. I've seen a lot on Slack about "rounding thy corners", so I did that. I regenerated the GRBRs afterwards.\
 I am also going to update the readme fully with updated pictures of everything.
 
-**Total time spent: ~ Hours**
+**Total time spent: ~0.3 Hours**
 
 ![Final PCB](Images/FinalPCB.png)
