@@ -15,7 +15,7 @@ Thank you so much to Hack Club and Forge for making this whole thing possible! T
 
 ## What is it?
 This project firstly involves a devboard. The reason it isn't a single board with the I/O and everything is because the main devboard is one of the more expensive things (~$35-40 including shipping for components), and I wanted you to just have one for all of the possible modules. (Also because I wanted a concrete starting point)\
-**Note: This is a test for just the devboard. I am going to make a case and print it myself when I have confirmation that it works.**\
+**Note: This is a test for just the devboard. I am going to make a case and print it myself when I have confirmation that it works and I will be able to measure something concrete.**\
 The second part of the project is the modules. They snap onto the devboard with magnets and communicate with pads on the back of both. Modules can do anything, as long as you code it right and have enough I/O pins!
 
 ## What's the Plan?
