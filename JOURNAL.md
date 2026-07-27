@@ -63,7 +63,8 @@ Today was a much shorter day than yesterday, but I did get the BOM for the devbo
 I've been mainly looking at various websites (LCSC, ALiExpress, JLCPCB, etc.) to see which can offer the best prices. I've mainly found that LCSC can offer really good prices for electronic components. I am getting the PCB from JLC because it was like 3 dollars cheaper.\
 I will be sending my BOM to the Slack to see if I'm getting scammed, thoough, so hopefully I get good deals.\
 I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.\
-After asking a couple questions, I've found that it would be a better idea to have each stage as its own project. This one, then, is about ready for a review, all I have to do is make a cover image!
+After asking a couple questions, I've found that it would be a better idea to have each stage as its own project. This one, then, is about ready for a review, all I have to do is make a cover image!\
+Another thing that I did today was some troubleshooting with figuring out what I will be able to code with. It seems like I can use Arduino IDE, but I've had quite a bit of trouble with installing the necessary packages. I think I am going to use CH32FUN, because I saw it recommended in a few places, and it seems mostly like Arduino IDE, as well as natively supporting my MCU I will be using. The main thing is that it mainly works by editing files in a text editor, and so I am going to need to find a way to be able to track it on Hackatime.
 
 **Total time spent: ~3.3 Hours**
 
