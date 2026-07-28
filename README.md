@@ -15,7 +15,7 @@ Thank you so much to Hack Club and Forge for making this whole thing possible! T
 
 ## What is it?
 This project firstly involves a devboard. The reason it isn't a single board with the I/O and everything is because the main devboard is one of the more expensive things (~$35-40 including shipping for components), and I wanted you to just have one for all of the possible modules. (Also because I wanted a concrete starting point)\
-**Note: This is a test for just the devboard. I am going to make a case and print it myself when I have confirmation that it works and I will be able to measure something concrete.**\
+**Note: This is a test for just the devboard. I am going to make a case and print it myself when I have confirmation that it works and I will be able to measure something concrete. Also, the 3D model on KiCad is missing quite a few componenets and I am going to need those in order to make a good case.**\
 The second part of the project is the modules. They snap onto the devboard with magnets and communicate with pads on the back of both. Modules can do anything, as long as you code it right and have enough I/O pins!
 
 ## What's the Plan?
