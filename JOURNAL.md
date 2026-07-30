@@ -78,3 +78,14 @@ I am also going to update the readme fully with updated pictures of everything.
 **Total time spent: ~0.3 Hours**
 
 ![Final PCB](Images/FinalPCB.png)
+
+# July 29 - Making Purchases!
+
+I got approved!!!! I'm so excited :3\
+I made my purchases on LCSC, AliExpress, and Ebay fine, but with JLC there were a few unexpected things like sales tax and the fact that my $5 coupon is too much and it can't be applied at checkout, making the total exceed the $3.22 left in my grant, and I ended up buying it myself. It was like $8 so it's fine.\
+Overall, I am incredibly excited to work on building this project. I will be adding journal entries whenever something arrives.\
+I have my workspace all set up!
+
+**Total time spent: ~0.75 Hours**
+
+![JLCPCB](Images/JLCPCB.png)
