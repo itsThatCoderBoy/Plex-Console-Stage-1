@@ -89,3 +89,12 @@ I have my workspace all set up!
 **Total time spent: ~0.75 Hours**
 
 ![JLCPCB](Images/JLCPCB.png)
+
+# August 1 - Modeling a Component Holder & Preparing Workspace
+
+Not too much today, mainly just waiting for components. I did model a small component holder, which will hopefully help the soldering process go much quicker.\
+I got an 0603 component kit, so that is why I am making the bins today. I will be putting the correct amount in each.
+
+**Total time spent: ~0.5 Hours**
+
+![JLCPCB](Images/JLCPCB.png)
