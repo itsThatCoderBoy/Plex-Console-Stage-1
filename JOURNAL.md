@@ -97,4 +97,4 @@ I got an 0603 component kit, so that is why I am making the bins today. I will b
 
 **Total time spent: ~0.5 Hours**
 
-![JLCPCB](Images/JLCPCB.png)
+![JLCPCB](Images/Holder.png)
