@@ -97,4 +97,44 @@ I got an 0603 component kit, so that is why I am making the bins today. I will b
 
 **Total time spent: ~0.5 Hours**
 
-![JLCPCB](Images/Holder.png)
+![Holder](Images/Holder.png)
+
+# August 9 - Working on Soldering!!!
+
+Big day today!! The components came, and and I worked on soldering them to the boards which also came today!! It was pretty difficult, because this is the first time I've been working with such itty-bitty components, and I burned myself a couple times lol.\
+However, I have come across a couple problems. First of all, tombstoning. I looked it up and I think I can fix it by heating the hotplate up with the PCB on it. Secondly, I ran into the problem where the PCB was getting cooked. This might be becuase it's too thick; the PCB is getting burnt before the top reaches melting temps.\
+I also am annoyed that I didn't get any extra controllers; I bridged a couple of the pins and it's been a nightmare trying to get them to seperate. However, I did get a slightly working prototype - it charged the battery!!! The only problem is that I then made 2 mistakes: first, I put the board on the hotplate while the battery was still connected, and one of the ICs on the battery got really big. However, it still works. Then, after reflowing the usb jack, I made the mistake of not gripping it tightly enough, and it fell and most on the components got messed up. Hopefully I can fix this soon, I have 2 boards left.\
+
+**Total time spent: ~2 Hours**
+
+![Cooked Board](Images/CookedBoard.jpeg)
+
+# August 15 - Working on Soldering 2: Electric Boogaloo!
+
+Boy oh boy! Today was a day, and it was exciting! First of all, the good news: I got a second prototype; the only problem is that I'm not going to attach the controller because some pins are bridged. The prototype does charge the battery, but neither of the lights work. I really should've added labels to the power switches.\
+I've noticed some flaws, mostly the pads on the back; I just don't think that they're practical, I should switch to fingers. I think I'm going to design new PCBS.\
+
+**Total time spent: ~1.5 Hours**
+
+![Bridged Pins](Images/BridgedPins.jpeg)
+
+# August 23 - Designing New PCBS: The Old Ones are Bad™
+
+I designed new PCBS! They are designed to fit inside of a model Gameboy Cartridge I made, and so hopefully it'll look cool!\
+On a more serious note, I've changed a lot - they're going to be thinner, they're larger, they have fingers instead of bottom pads, and the components are a lot more spread out to hopefully make assembly easier.\
+I also ordered some replacement controllers from AliExpress. They should be here soon!\
+
+**Total time spent: ~2.25 Hours**
+
+![New Design!](Images/NewDesign.png)
+
+# September 6 - Soldering Again!
+
+The new PCBS got here! I was more experienced this timne around, so it wasn't too bad, just a couple minor burns lol\
+I didn't cook a single one! The most difficult part was the controller, and I had to spend an unreasonable amount of time to assure that the pins weren't bridged. It did end up working out, and I'm going to try to flash a blink program tomorrow.\
+i made the decision to remove th not gates on the LEDS, and they do light up!\
+
+**Total time spent: ~1.5 Hours**
+
+![New PCB!](Images/NewPCB.jpeg)
+![New PCB Assembled!!](Images/NewPCBAss.jpeg)
