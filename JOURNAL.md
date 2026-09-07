@@ -126,7 +126,7 @@ I also ordered some replacement controllers from AliExpress. They should be here
 
 **Total time spent: ~2.25 Hours**
 
-![New Design!](Images/NewDesign.png)
+![New Design!](Images/NewPCB.png)
 
 # September 6 - Soldering Again!
 
