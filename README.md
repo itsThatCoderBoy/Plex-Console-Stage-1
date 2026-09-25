@@ -34,7 +34,7 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 ![PCB Layout of Devboard](Images/NewPCB.png)
 
 *Built-in KiCad 3D Model Front*\
-![Built-in KiCad 3D Model Front of Devboard](Images/PCBDay?.png)
+![Built-in KiCad 3D Model Front of Devboard](Images/PCBDay.png)
 
 *Build Photo*
 ![Build Photo](Images/NewPCBAss.png)
