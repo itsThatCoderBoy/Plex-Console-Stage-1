@@ -47,3 +47,13 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 
 [View my project timeline on Lapse](https://lapse.hackclub.com/user/@itsthatcoderboy)
 
+
+https://github.com/user-attachments/assets/fe2d55e1-1f7b-49ab-ab0b-663dc05e2e7f
+
+
+
+https://github.com/user-attachments/assets/89aea018-e0ea-4a9d-9f60-57c4afef2afe
+
+
+
+https://github.com/user-attachments/assets/4f556e5a-54bf-4c0b-9238-5e6fd982241c
