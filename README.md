@@ -42,3 +42,7 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 ## BOM
 
 ![DevboardBOM](Images/DevboardBOM.png)
+
+## Build
+
+![Part 1](https://lapse.hackclub.com/timelapse/tyhbbI2FWK-o)
