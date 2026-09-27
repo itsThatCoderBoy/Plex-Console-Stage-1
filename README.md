@@ -45,4 +45,5 @@ Last but not least, if I have any extra time, I'd eventually like to make other 
 
 ## Build
 
-![Part 1](https://lapse.hackclub.com/timelapse/tyhbbI2FWK-o)
+[View my project timeline on Lapse](https://lapse.hackclub.com/user/@itsthatcoderboy)
+
